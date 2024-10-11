@@ -1,0 +1,10 @@
+git+https://github.com/simoncozens/karakul
+glyphsLib
+uharfbuzz>=0.31.0
+kurbopy>=0.8.21
+fontmake
+youseedee
+tqdm
+fontbakery
+font-v
+gftools
