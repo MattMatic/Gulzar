@@ -1,3 +1,8 @@
+fez-language==1.3.4
+fontbakery==0.8.13
+fontFeatures==1.7.4
+numpy==1.26.4
+kurbopy==0.10.40
 absl-py==2.1.0
 afdko==3.9.5
 appdirs==1.4.4
@@ -25,11 +30,8 @@ defcon==0.10.3
 dehinter==4.0.0
 Deprecated==1.2.14
 exceptiongroup==1.2.1
-fez-language==1.3.4
 filelock==3.14.0
 font-v==2.1.0
-fontbakery==0.8.13
-fontFeatures==1.7.4
 fontmake==3.5.1
 fontMath==0.9.3
 fontParts==0.12.1
@@ -49,7 +51,6 @@ importlib_resources==6.4.0
 Jinja2==3.1.4
 karakul @ git+https://github.com/simoncozens/karakul@c1a5d466b11b194ff7a7bd2909fe0eaecb3ab40c
 kerndeterminer==0.0.1
-kurbopy==0.10.40
 lark==1.1.9
 lxml==4.9.4
 markdown-it-py==3.0.0
@@ -61,7 +62,6 @@ MutatorMath==3.0.1
 nanoemoji==0.15.1
 networkx==3.3
 ninja==1.11.1.1
-numpy==1.26.4
 openstep-plist==0.3.1
 opentype-sanitizer==9.1.0
 opentypespec==1.9.1
